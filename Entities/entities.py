@@ -7,12 +7,13 @@ input_text = """Hello Zhang Wei, I am John. Your AnyCompany Financial Services, 
 Customer feedback for Sunshine Spa, 123 Main St, Anywhere. Send comments to Alice at sunspa@mail.com. 
 I enjoyed visiting the spa. It was very comfortable but it was also very expensive. The amenities were ok but the service made the spa a great experience."""
 
-
 response = client.detect_entities(
     Text = input_text,
     LanguageCode = 'en'
 )
 
+# Formate the response as a JSON string
 json_string_formated_response = json.dumps(response, indent=2)
 
+# Print the formated response
 print(json_string_formated_response)
