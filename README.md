@@ -1,4 +1,7 @@
 # Comprehend Real-time Analysis Example
+
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-0000-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-0000-green">
+
 Examples using the AWS SDK for Python ie. Boto3 to interact with AWS Comprehend. Specifically the examples work with the real-time analysis capabilities of comprehend. 
 
 Real-time analysis capabilities use a pre-built model that comprehend offers. There is no training on your data required.
