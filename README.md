@@ -1,6 +1,6 @@
 # Comprehend Real-time Analysis Example
 
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-064-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-014-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-064-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-015-green">
 
 Examples using the AWS SDK for Python ie. Boto3 to interact with AWS Comprehend. Specifically the examples work with the real-time analysis capabilities of comprehend.
 
